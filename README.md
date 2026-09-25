@@ -89,3 +89,7 @@ pip install pandas numpy scikit-learn jupyter
 Open `phase2_cleaning_engine.ipynb` to run the cleaning engine, then `phase3_anomaly_detection.ipynb` to score anomalies. Each phase writes its outputs and a run-summary JSON to the corresponding `*_output/` folder.
 
 ---
+
+## Author
+
+Thu Thao 
